@@ -1,4 +1,6 @@
-# 🍽️ Restaurant Website - HTML & CSS
+# Responsive Website Design - HTML/CSS/JS
+
+## 🍽️ Restaurant Website - HTML & CSS
 
 Welcome to the **Restaurant Website** repository! This project is a fully responsive, modern, and visually appealing restaurant website built using **HTML5, & CSS**. The design is crafted to provide an elegant user experience with smooth navigation and aesthetically pleasing UI elements.
 
