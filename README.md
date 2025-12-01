@@ -1,4 +1,4 @@
-# Responsive Website Design - HTML/CSS/JS
+# Responsive Website Design
 
 ## 🍽️ Restaurant Website - HTML & CSS
 
